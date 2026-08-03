@@ -17,7 +17,7 @@ spec:
 
     targetRevision: HEAD
 
-    path: app
+    path: single_app/app
 
   destination:
 
