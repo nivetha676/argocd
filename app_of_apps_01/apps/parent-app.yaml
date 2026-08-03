@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/nivetha676/argocd.git
     targetRevision: main
-    path: app_of_apps/apps
+    path: app_of_apps_01/apps/nginx
 
   destination:
     server: https://kubernetes.default.svc
