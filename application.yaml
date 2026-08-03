@@ -15,7 +15,7 @@ spec:
 
     repoURL: https://github.com/nivetha676/argocd.git
 
-    targetRevision: main
+    targetRevision: HEAD
 
     path: app
 
