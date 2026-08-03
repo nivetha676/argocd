@@ -3,7 +3,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 
 metadata:
-  name: argocd-demo
+  name: argocd-single-app
 
   namespace: argocd
 
