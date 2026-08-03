@@ -25,4 +25,7 @@ spec:
 
     namespace: demo
 
-  syncPolicy: {}
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
